@@ -1,0 +1,32 @@
+/* Exercicio: Classes e ID's
+Para este exercício contamos com uma estrutura HTML e de classes de CSS já definidas, mas no momento nenhuma essas classes não foram atribuídas a nenhuma dessas classes.
+
+Seu trabalho será utilizar os atributos class e id para que essas regras afetem as etiquetas HTML e fazer com que:
+
+o título principal seja dourado
+que os títulos tenham letras maiúsculas.
+que o texto "Contate-nos via whatsapp!" apareça com fundo verde e letra branca
+
+Veja no material do playground como atribuir uma classe um id a alguma tag HTML. Você não precisa modificar o texto dentro das tags, nem o arquivo CSS. */
+
+.OFERTAS {
+    color: gold;
+}
+
+.Smartphones {
+    text-transform: uppercase;
+}
+
+.Notebooks{
+    text-transform: uppercase;
+}
+
+.Tablets {
+        text-transform: uppercase;
+}
+
+
+#whatsapp {
+    background-color: green;
+    color: white;
+}

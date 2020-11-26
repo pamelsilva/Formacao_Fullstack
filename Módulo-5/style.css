@@ -1,0 +1,15 @@
+/* Exercício: Seletores tag
+Vamos escrever CSS! 
+
+E a primeira coisa é modificar o estilo de uma estrutura HTML já definida usando CSS. Queremos que você escreva no arquivo style.css a seguinte regra:
+
+Todas tags <p> com a regra color:red
+Lembre que para selecionar a tag, você deve usar o nome dela no css! */
+
+
+
+
+
+p{
+    color: red;
+}
